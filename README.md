@@ -1,6 +1,6 @@
 # Hello, I'm Angela Regina Rossi
 
-Welcome to my GitHub profile, I'm an Italian writer, working as an Automations Writer and AI Specialist with a multidisciplinary background that spans from AI and automation to game music composition, classical and jazz piano, languages, and multimedia.
+Welcome to my GitHub profile, I'm an Italian computer scientist and engineer, working as an Automations Engineer and AI Specialist with a multidisciplinary background that spans from AI and automation to game music composition, classical and jazz piano, languages, and multimedia.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile, I'm an Italian writer, working as an Automations W
 - **Blogger & Writer** (2017 – Present)   
   Freelance.
 
-- **Automations Writer & AI Specialist** @ Henko SRL (Jul 2025 – Present)  
+- **Software, Automation, &  AI Engineer** @ Henko SRL (Jul 2025 – Present)  
   Programming AI models and machine learning algorithms, creating business automations.
 
 - **Junior System Administrator & Developer (Intern)** @ ELAN42 (May 2025 – Jun 2025)  
