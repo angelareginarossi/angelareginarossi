@@ -6,9 +6,6 @@ Welcome to my GitHub profile, I'm an Italian computer scientist and engineer, wo
 
 ## 💼 Professional Experience
 
-- **Blogger & Writer** (2017 – Present)   
-  Freelance.
-
 - **Software, Automation, &  AI Engineer** @ Henko SRL (Jul 2025 – Present)  
   Programming AI models and machine learning algorithms, creating business automations.
 
@@ -82,7 +79,7 @@ Welcome to my GitHub profile, I'm an Italian computer scientist and engineer, wo
 ## 🧠 Skills & Technologies
 
 - **Programming Languages:**  
-  `Python`, `C++`, `C#`, `Java`, `JavaScript`, `HTML`, `SQL`, `.NET`, `Swift`, `MATLAB`, `Flutter`, `Jinja`
+  `C++`, `Python`, `C`, `HTML`, `C#`, `Java`, `JavaScript`, `Angular`, `SQL`, `.NET`, `Swift`, `Flutter`, `Jupyter Notebook`, `MATLAB`, `Jinja`.
 
 - **Specialties:**  
   AI & Machine Learning, Automation, Cloud & API Integration, Data Science (Jupyter), Music Technology, 2D/3D Drawing, Animation.
