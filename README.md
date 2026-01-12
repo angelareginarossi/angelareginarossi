@@ -103,10 +103,15 @@ Welcome to my GitHub profile, I'm an Italian computer scientist and engineer, wo
   Credential ID: `ws2b76qvdwe9`  
   Skills: `Jinja · Industrial Automation`  
 
-- **Clean Automation** – *Rewst*  
+- **Clean Automation** – *Udemy*  
   *Issued Jul 2025*  
   Credential ID: `ttc7senjxgt5`  
   Skills: `Jinja · Industrial Automation`
+
+- **Ethical Hacking** – *Rewst*  
+  *Issued Jul 2025*  
+  Credential ID: `UC-62b64cce-c918-4414-b276-5aa6fc6b96ac`  
+  Skills: `Ethical Hacking`
 
 - **Music Business Specialization** – *Berklee College of Music*  
   *Issued Aug 2023*  
