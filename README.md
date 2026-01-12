@@ -50,10 +50,6 @@ Welcome to my GitHub profile, I'm an Italian computer scientist and engineer, wo
   **Conservatorio Benedetto Marcello**, 2024 | EQF 6    
   Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_
 
-- 🖋️ *Post Diploma Course in Communication and social media marketing in industrial companies*          
-  **Università Pegaso**, 2024 | EQF 5     
-  Thesis: _""_
-
 - 🌍 *Linguistic High School Diploma*        
   **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 4   
   Thesis: _"Children of The Grave: The meaning of family in the English and German literature"_
