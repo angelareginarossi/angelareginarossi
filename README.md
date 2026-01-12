@@ -88,7 +88,7 @@ Welcome to my GitHub profile, I'm an Italian computer scientist and engineer, wo
   Unity, Blender, Rewst, Krita, Photo and Video Editing, Audio Workstations.
 
 - **Languages:**  
-  🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency), 🇪🇸 Spanish (B2), 🇳🇴 Norwegian (B1), 🇩🇪 German (B1), 🇷🇴 Romanian (B1), Klingon (B1)      
+  🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency), 🇪🇸 Spanish (B2), 🇳🇴 Norwegian (B1), 🇩🇪 German (B1), 🇷🇴 Romanian (B1), 🇫🇷 French (B1), Klingon (B1)      
 
 ---
 
@@ -107,14 +107,6 @@ Welcome to my GitHub profile, I'm an Italian computer scientist and engineer, wo
   *Issued Jul 2025*  
   Credential ID: `ttc7senjxgt5`  
   Skills: `Jinja · Industrial Automation`
-
-- **Building Your Career as a Professional Singer** – *Berklee College of Music / Coursera*  
-  *Issued Aug 2023*  
-  [Show credential](https://coursera.org/verify/6CWPWCQ8U9KY)
-
-- **Singing Popular Music** – *Berklee College of Music / Coursera*  
-  *Issued Aug 2023*  
-  [Show credential](https://coursera.org/verify/RE2V2K284GQW)
 
 - **Music Business Specialization** – *Berklee College of Music*  
   *Issued Aug 2023*  
